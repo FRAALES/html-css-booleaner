@@ -6,3 +6,8 @@
 .logo {
     width: 500px;
 }
+
+header{
+    background-color: blue;
+    background-size: contain;
+}
